@@ -16,7 +16,7 @@ This study area includes four wilderness areas located in the Roosevelt National
 
 Technologies used:
 - Python 3.8.3
-- TensorFlow 
+- TensorFlow 2.1.0
 - Pandas 1.0.5
 - Matplotlib 3.2.2
 - Seaborn 0.10.1
